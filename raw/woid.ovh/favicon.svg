@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="18.062222mm"
-   height="18.062222mm"
-   viewBox="0 0 63.999998 63.999997"
+   width="18.462223mm"
+   height="18.462223mm"
+   viewBox="0 0 65.417326 65.417325"
    id="svg4192"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -24,13 +24,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="10.559748"
-     inkscape:cy="9.187622"
+     inkscape:cx="11.268425"
+     inkscape:cy="9.8963034"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,10 +39,10 @@
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="0"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="0.2"
+     fit-margin-left="0.2"
+     fit-margin-right="0.2"
+     fit-margin-bottom="0.2" />
   <metadata
      id="metadata4197">
     <rdf:RDF>
@@ -59,7 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-166.63013,-330.05771)">
+     transform="translate(-165.92147,-329.34905)">
     <rect
        style="opacity:0.753;fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.46224403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4750"
