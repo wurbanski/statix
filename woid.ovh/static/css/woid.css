@@ -12,24 +12,22 @@ body {
   font-size: 20px;
 }
 
-#main {
-margin: 2rem 1rem;
-}
+#main { margin: 2rem 1rem; }
 
-h1 { font-size: 2.8rem; }
 #caret { animation: caret 1.5s linear infinite; }
 @keyframes caret { 30% { opacity: 0; } 90% { opacity: 0; } }
 
 #footer {
   text-align: right;
   position: absolute;
-  bottom: .6rem;
-  right: 1rem;
+  bottom: 0;
   font-size: .9rem;
+  height: 3rem;
+  line-height: 3rem;
+  width: 100%;
+  background-color: #000;
 }
 
-img { vertical-align: middle; }
 a { color: #b9b9b9; }
-
 ul { padding: .4rem 0; }
 li { padding: .1rem 0; }
