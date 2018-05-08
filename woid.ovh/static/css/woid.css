@@ -9,6 +9,7 @@ body {
   background: #101010;
   color: #b9b9b9;
   font-family: "Cousine",monospace;
+  font-size: 20px;
 }
 
 #main {
@@ -22,12 +23,13 @@ h1 { font-size: 2.8rem; }
 #footer {
   text-align: right;
   position: absolute;
-  bottom: .4rem;
+  bottom: .6rem;
   right: 1rem;
-  line-height: 3rem;
-  height: 3rem;
+  font-size: .9rem;
 }
 
 img { vertical-align: middle; }
-a { text-decoration: none; color: #b9b9b9; }
+a { color: #b9b9b9; }
 
+ul { padding: .4rem 0; }
+li { padding: .1rem 0; }
