@@ -28,5 +28,5 @@ body {
   background-color: #000;
 }
 
-a { color: #b9b9b9; }
-p { padding: .3rem 0; }
+a { color: #2476f7; text-decoration: none; font-weight: bold; }
+p { padding: .2rem 0; }
